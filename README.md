@@ -1,8 +1,8 @@
-<div align="center">
+<table>
+<tr>
+<td width="65%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=36&duration=4000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=NullGravity+Labs;Defying+Limits+Through+Code" />
-
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=36&duration=4000&pause=1000&color=000000&center=false&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=NullGravity+Labs;Defying+Limits+Through+Code" />
 
 <pre>
 🧪 Independent R&D Lab
@@ -10,9 +10,15 @@
 🖤 Minimal • Black & White • Indie Builder Energy
 </pre>
 
-<br>
+</td>
+<td width="35%" align="right">
 
-</div>
+<img src="assets/cat.png" width="240" />
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -56,9 +62,6 @@ More experiments live and evolve here.
 
 NullGravity is not about removing gravity —  
 it’s about **not being held down by it**.
-
-<img src="null.jpg" width="180" />
-
 
 ---
 
