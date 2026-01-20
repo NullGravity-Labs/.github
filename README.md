@@ -57,7 +57,7 @@ More experiments live and evolve here.
 NullGravity is not about removing gravity —  
 it’s about **not being held down by it**.
 
-<img src="null.jpeg" width="180" />
+<img src="null.jpg" width="180" />
 
 
 ---
