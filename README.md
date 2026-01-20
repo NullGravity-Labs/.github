@@ -13,7 +13,7 @@
 </td>
 <td width="35%" align="right">
 
-<img src="assets/cat.png" width="240" />
+<img src="null.jpg" width="240" />
 
 </td>
 </tr>
