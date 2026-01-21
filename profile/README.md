@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=36&duration=4000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=NullGravity+Labs;Defying+Limits+Through+Code" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=36&duration=4000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=NullGravity+Devs;Defying+Limits+Through+Code" />
 
 <br><br>
 
